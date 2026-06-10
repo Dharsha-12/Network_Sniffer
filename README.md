@@ -129,25 +129,3 @@ Raw Network Interface
 Each captured packet travels through a chain of parsers using Python's `struct.unpack()` to decode raw bytes according to standard protocol header formats (RFC 791, RFC 793, RFC 768, RFC 792).
 
 ---
-
-## ⚠️ Legal & Ethical Notice
-
-This tool is built **strictly for educational purposes** as part of the CodeAlpha Cybersecurity Internship.
-
-- Only use this tool on **networks you own or have explicit permission to monitor**
-- Unauthorized packet sniffing is **illegal** in most jurisdictions
-- Never use this tool to capture credentials, private data, or traffic belonging to others
-
----
-
-## 👤 Author
-
-**Dharshan D**
-CodeAlpha Cybersecurity Intern
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/YourUsername)
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
